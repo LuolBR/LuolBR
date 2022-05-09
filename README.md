@@ -1,7 +1,7 @@
 ### Olá! Sou o Lucas Silva 👋
 
 
-- 🔭 Atualmente atuo como Professor de Língua Inglesa! 
+- 🔭 Atualmente atuo como Professor de Inglês - Fisk Centro de Ensino;
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas - UNESA;
 - 🌱 Cursando CS50 - Introduction to Computer Science - Harvard; 
 - 🌱 Estudando Java/Kotlin e desenvolvimento Android (Nativo);
