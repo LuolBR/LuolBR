@@ -1,10 +1,10 @@
-### Olá! Sou o Lucas Silva 👋
+### Hi! I'm Lucas Silva 👋
 
 
-- 🔭 Atualmente atuo como Professor de Inglês - Fisk Centro de Ensino;
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas - UNESA;
-- 🌱 Cursando CS50 - Introduction to Computer Science - Harvard; 
-- 🌱 Estudando Java/Kotlin e desenvolvimento Android (Nativo);
+- 🔭 Currently working as English Teacher at Fisk Centro de Ensino;
+- 🌱 Analysis and Systems Development student at UNESA;
+- 🌱 Studying CS50 - Introduction to Computer Science at Harvard; 
+- 🌱 Learning Kotlin and Android (Native) development;
 
 <div align="center">
   <a href="https://github.com/LuolBR">
