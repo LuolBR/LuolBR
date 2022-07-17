@@ -6,7 +6,7 @@
 - 🌱 Studying CS50 - Introduction to Computer Science at Harvard; 
 - 🌱 Learning Kotlin and Android (Native) development;
 
-<div align="center">
+<div align="space-around">
   <a href="https://github.com/LuolBR">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuolBR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuolBR&layout=compact&langs_count=7&theme=tokyonight&hide=css,javascript"/>
