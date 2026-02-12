@@ -1,7 +1,7 @@
 ### Hi! I'm Lucas Silva 👋
 
 
-- 🔭 Currently working as Junior Developer @Techne;
+- 🔭 Currently working as Low-code Sernior Developer @Techne;
 - 🌱 Analysis and Systems Development student at UNESA;
 - 🌱 Studying CS50 - Introduction to Computer Science at Harvard; 
 - 🌱 Learning Kotlin and Android (Native) development;
