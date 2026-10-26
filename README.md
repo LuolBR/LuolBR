@@ -2,9 +2,9 @@
 
 
 - 🔭 Currently working as Low-code Senior Developer @Techne;
-- 🌱 Analysis and Systems Development student at UNESA;
-- 🌱 Studying CS50 - Introduction to Computer Science at Harvard; 
-- 🌱 Learning Kotlin and Android (Native) development;
+- 🎓 Majorerd in Analysis and Systems Development;
+- 🎓 Majored in English Language and English Literature; 
+- 🌱 Studying Applied AI Engineering at UNIPDS;
 
 <div align="center">
   <a href="https://github.com/LuolBR">
